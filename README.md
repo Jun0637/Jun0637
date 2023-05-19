@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jun0637&label=Profile%20views&color=0e75b6&style=flat" alt="jun0637" /> </p>
 
-- 🔭 I’m currently working on [mbti-test](http://www.google.com)
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jun0637&show_icons=true&locale=en&layout=compact" alt="jun0637" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jun0637&show_icons=true&locale=en" alt="jun0637" /></p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
