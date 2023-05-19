@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm This is HyeongJun Park, a developer who codes dreams.</h1>
+<h1 align="center">Hi 👋, I'm This is HyeongJun Park, a developer who codes dreams.</h1>
 <h3 align="center">I am working with the mission of change the world a better than yesterday!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jun0637&label=Profile%20views&color=0e75b6&style=flat" alt="jun0637" /> </p>
